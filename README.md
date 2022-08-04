@@ -1,2 +1,2 @@
 # Spanish
- Using text to learn spanish
+ Using text to learn Spanish
